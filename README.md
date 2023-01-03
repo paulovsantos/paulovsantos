@@ -1,11 +1,10 @@
 ### Olá! Eu sou Paulo Vitor
 
-- 🌱 Estudando C# e .NET
+- 🌱 Estudando JavaScript
 
 <div>
 <a href="https://github.com/paulovsantos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovsantos&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulovsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
   <div style="display: inline_block"><br>
