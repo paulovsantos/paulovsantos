@@ -3,8 +3,7 @@
 - 🌱 Estudando JavaScript
 
 <div>
-<a href="https://github.com/paulovsantos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulovsantos&layout=compact&langs_count=16&theme=dark" />
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulovsantos&theme=react&line_height=40&hide=css"/> </a>
 </div>
 
   <div style="display: inline_block"><br>
