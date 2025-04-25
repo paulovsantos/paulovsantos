@@ -3,8 +3,11 @@
 - 🌱 Estudando Python
 
 <div>
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulovsantos&cache_seconds=10&theme=react&line_height=40&hide=css"/> </a>
+  <a href="">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulovsantos&theme=react&line_height=40&hide=css&cache_seconds=10"/>
+  </a>
 </div>
+
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
